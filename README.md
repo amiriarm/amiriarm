@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amiria McGhie</h1>
-<h3 align="center">A Computer Science and Data Science Student from Victoria University of Wellington (VUW)</h3>
+<h3 align="center">Computer Science and Data Science Student from Victoria University of Wellington (VUW)</h3>
 
 <p align="center"></p>
 
